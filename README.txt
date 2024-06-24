@@ -1,4 +1,4 @@
 ECom1 App
 ==============
 
-My first ECommerce App
+Welcome to my first ecommerce project
